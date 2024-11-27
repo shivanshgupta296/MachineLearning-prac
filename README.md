@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=someshsingh-7251)
+
  
 
 # Machine Learning Projects
@@ -15,7 +15,7 @@ This repository includes six machine learning projects, covering topics such as 
 
 ## Projects
 
-### 1. [HousePricePredectionOnPostonHousingData](https://github.com/someshsingh-7251/Machine-Learning-Projects/blob/main/1.%20HousePricePredectionOnPostonHousingData.ipynb)
+### 1. [HousePricePredectionOnPostonHousingData](https://github.com/shivanshgupta296/MachineLearning-prac/blob/main/01.%20House%20Price%20Predection%20On%20Poston%20Housing%20Data.ipynb)
 
 Description: A project focused on predicting house prices based on various features using Linear Regression.
 Tech Stack: Python, Pandas, NumPy, Scikit-Learn
@@ -23,7 +23,7 @@ Algorithms Used: Linear Regression
 Dataset: A dataset containing various attributes of houses (e.g., area, number of rooms, location).
 How to Run: Navigate to the project folder and run house_price_prediction.py.
 
-### 2. [Brain Weight Prediction](https://github.com/someshsingh-7251/Machine-Learning-Projects/blob/main/2.%20Brain%20Weight%20Prediction.ipynb)
+### 2. [Brain Weight Prediction](https://github.com/shivanshgupta296/MachineLearning-prac/blob/main/02.%20Brain%20Weight%20Prediction.ipynb)
 
 Description: Classification of Iris flower species based on petal and sepal measurements using different classifiers.
 Tech Stack: Python, Scikit-Learn
@@ -31,7 +31,7 @@ Algorithms Used: K-Nearest Neighbors (KNN), Logistic Regression, Decision Trees
 Dataset: Iris Dataset
 How to Run: Open iris_classification.ipynb in Jupyter Notebook and run the cells.
 
-### 3. [Encoding of Categorical Data](https://github.com/someshsingh-7251/Machine-Learning-Projects/blob/main/3.%20Encoding%20of%20Categorical%20Data.ipynb)
+### 3. [Encoding of Categorical Data](https://github.com/shivanshgupta296/MachineLearning-prac/blob/main/03.%20Encoding%20of%20Categorical%20Data.ipynb)
 
 Description: A binary classification project to detect whether a tumor is malignant or benign using machine learning.
 Tech Stack: Python, Scikit-Learn, Pandas
@@ -39,7 +39,7 @@ Algorithms Used: Support Vector Machine (SVM), Random Forest
 Dataset: Breast Cancer Wisconsin Dataset
 How to Run: Run breast_cancer_detection.py to execute the model.
 
-### 4. [Logistic Regression on Iris Dataset](https://github.com/someshsingh-7251/Machine-Learning-Projects/blob/main/4.%20Logistic%20Regression%20on%20Iris%20Dataset.ipynb)
+### 4. [Logistic Regression on Iris Dataset](https://github.com/shivanshgupta296/MachineLearning-prac/blob/main/04.%20Logistic%20Regression%20on%20Iris%20Dataset.ipynb)
 
 Description: This project implements K-Means Clustering to segment customers based on their annual income and spending score.
 Tech Stack: Python, Matplotlib, Seaborn, Scikit-Learn
@@ -47,7 +47,7 @@ Algorithms Used: K-Means Clustering
 Dataset: A synthetic dataset containing customer data.
 How to Run: Run the customer_segmentation.ipynb in Jupyter Notebook.
 
-### 5. [Breast Cancer](https://github.com/someshsingh-7251/Machine-Learning-Projects/blob/main/5.%20Breast%20Cancer.ipynb)
+### 5. [Breast Cancer](https://github.com/shivanshgupta296/MachineLearning-prac/blob/main/05.%20Breast%20Cancer.ipynb)
 
 Description: A deep learning project that uses Convolutional Neural Networks (CNN) to recognize handwritten digits from the MNIST dataset.
 Tech Stack: Python, TensorFlow, Keras
@@ -55,7 +55,7 @@ Algorithms Used: CNN
 Dataset: MNIST Dataset
 How to Run: Run digit_recognition.py in the project folder.
 
-### 6. [KNN Clustering on Iris Dataset](https://github.com/someshsingh-7251/Machine-Learning-Projects/blob/main/6.%20KNN%20Clustering%20on%20the%20Iris%20Dataset.ipynb)
+### 6. [KNN Clustering on Iris Dataset](https://github.com/shivanshgupta296/MachineLearning-prac/blob/main/06.%20KNN%20Clustering%20on%20the%20Iris%20Dataset.ipynb)
 
 Description: This project performs sentiment analysis on tweets to determine whether a tweet has a positive or negative sentiment using NLP techniques.
 Tech Stack: Python, NLTK, Scikit-Learn
@@ -115,13 +115,10 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 ## 🤝 Let's Connect!
 
 You can reach out to me on various platforms. Click the icons below to visit my profiles:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somesh-singh-2aa796229/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someshsingh-7251) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/someshsingh7251) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/somesh572000) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/officialsomeshchinkusingh?igsh=MWsxY2N6Y2tpbjA5bQ==)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somesh572000@gmail.com)
+ 
+[![GitHub](https://github.com/shivanshgupta296/MachineLearning-prac) 
+[![Kaggle](https://www.kaggle.com/shivansh296)
+[![Email](u22250085@coeruniversity.ac.in)
 
 
 ---
